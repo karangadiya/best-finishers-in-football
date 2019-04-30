@@ -1,2 +1,2 @@
 # best-finishers-in-football
-Finding the best finishers in the game
+The jupyter notebook above has all the process along with the code.
